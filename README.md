@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thilaksan Elango</h1>
-
 <p align="center">
   <em>Interested in full-stack development and system design</em>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4F6EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+Progress;Theory+of+Computation+Enthusiast;Cinema+Lover+%F0%9F%8E%AC;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
@@ -15,7 +13,7 @@
 - 🌱 Currently learning **React**
 - 🎓 Studying at **University of Mauritius**
 - 🔭 Latest project: **[Turing Machine Visualizer](https://Thilaksan8.github.io/turing-machine-visualizer)**
-- 📫 Reach me at **thilakshanlat@gmail.com**
+- 📫 Reach me at **[thilakshanlat@gmail.com](mailto:thilakshanlat@gmail.com)**
 - ⚡ Fun fact: **Cinema Lover 🎬**
 
 ---
@@ -59,15 +57,4 @@
   <a href="https://www.leetcode.com/ethilaksan_23" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thilaksan8&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilaksan8&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
