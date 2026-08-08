@@ -3,7 +3,7 @@
   <em>Interested in full-stack development and system design</em>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4F6EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+Progress;Theory+of+Computation+Enthusiast;Cinema+Lover+%F0%9F%8E%AC;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4F6EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+Progress;Cyber+Security+Enthusiast;Cinema+Lover+%F0%9F%8E%AC;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
