@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning **React**
 - 🎓 Studying at **University of Mauritius**
-- 🔭 Latest project: **[Turing Machine Visualizer](https://Thilaksan8.github.io/turing-machine-visualizer)**
+- 🔭 Latest project: **[Time-Slot-Booking-App](https://github.com/Thilaksan8/time-slot-booking-app)**
 - 📫 Reach me at **[thilakshanlat@gmail.com](mailto:thilakshanlat@gmail.com)**
 - ⚡ Fun fact: **Cinema Lover 🎬**
 
