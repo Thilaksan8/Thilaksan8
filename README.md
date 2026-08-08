@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **SpringBoot**
 - 🎓 Studying at **University of Mauritius**
 - 🔭 Latest project: **[Time-Slot-Booking-App](https://github.com/Thilaksan8/time-slot-booking-app)**
 - 📫 Reach me at **[thilakshanlat@gmail.com](mailto:thilakshanlat@gmail.com)**
