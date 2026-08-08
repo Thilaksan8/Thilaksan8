@@ -13,7 +13,7 @@
 - 🌱 Currently learning **SpringBoot**
 - 🎓 Studying at **University of Mauritius**
 - 🔭 Latest project: **[Time-Slot-Booking-App](https://github.com/Thilaksan8/time-slot-booking-app)**
-- 📫 Reach me at **[thilakshanlat@gmail.com](mailto:thilakshanlat@gmail.com)**
+- 📫 Reach me at **[thilaksane.23@cse.mrt.ac.lk](mailto:thilaksane.23@cse.mrt.ac.lk)**
 - ⚡ Fun fact: **Cinema Lover 🎬**
 
 ---
