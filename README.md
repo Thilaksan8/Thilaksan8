@@ -20,9 +20,9 @@
 
 ### 🚀 Latest Project
 
-> **[🖥️ Turing Machine Visualizer](https://Thilaksan8.github.io/turing-machine-visualizer)**  
-> Interactive browser-based TM simulator for L = { aⁿ b³ⁿ cᵐ | n≥1, m≥0 }  
-> Built as part of Theory of Computation coursework · Open for collaboration!
+> **[📅 Time Slot Booking System](https://time-slot-booking-app-tau.vercel.app)**
+> Full-stack MERN application for managing appointment bookings with CRUD operations and duplicate slot prevention.
+> Built with React, Node.js, Express.js & MongoDB Atlas · [Live Demo](https://time-slot-booking-app-tau.vercel.app)
 
 ---
 
